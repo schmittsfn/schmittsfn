@@ -1,5 +1,3 @@
-![](https://upload.wikimedia.org/wikipedia/commons/7/79/Salt_flats.JPG)
-
 Areas of Engineering:  
 iOS, Backend, Web  
 
