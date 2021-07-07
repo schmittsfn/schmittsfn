@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**schmittsfn/schmittsfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Areas of Engineering:
+iOS, Backend, Web
 
-Here are some ideas to get you started:
+Fields:
+Video Streaming, Maps, VR, 2D Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I am familiar with: 
+Swift, Objc, Golang, Ruby, Python, C#, C++, Javascript
+SwiftUI, Combine, CarPlay, tvOS, RoR, Django, Unity3D, Cocos2D
+Heroku, DigitalOcean, AWS, GoogleCloud
+Git
+
+Tools:
+Figma, Trello, Notion, Slack, Zoom, Amplitude
+Xcode, Jetbrains IDEs
+
+
+## Looking to get into blockchain tech.
