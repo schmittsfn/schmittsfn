@@ -17,4 +17,4 @@ Figma, Trello, Notion, Slack, Zoom, Amplitude
 Xcode, Jetbrains IDEs  
 
 
-### Very curious about blockchain related technologies
+**_Very curious about blockchain related technologies_**
