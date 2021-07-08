@@ -2,7 +2,7 @@ Areas of Engineering:
 iOS, Backend, Web  
 
 Fields:  
-Maps, Video Streaming, VR, 2D Games  
+Maps, Video Streaming, VR, Video Games  
 
 Technologies I am familiar with:  
 Swift, Objc, Golang, Ruby, Python, C#, C++, Javascript   
