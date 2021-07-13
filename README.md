@@ -1,5 +1,5 @@
 Areas of Engineering:  
-iOS, Backend, Web  
+iOS, Backend
 
 Fields:  
 Maps, Video Streaming, VR, Video Games  
