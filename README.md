@@ -4,7 +4,7 @@ iOS, Backend, Web
 Fields:  
 Maps, Video Streaming, VR, Video Games  
 
-Technologies I am familiar with:  
+Technologies I have worked with:  
 Swift, Objc, Golang, Ruby, Python, C#, C++, Javascript   
 SwiftUI, Combine, CarPlay, tvOS, RoR, Django, Unity3D, Cocos2D  
 Heroku, DigitalOcean, AWS, GoogleCloud   
