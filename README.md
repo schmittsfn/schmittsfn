@@ -1,3 +1,5 @@
+<-- [Avatar Image Explained 😊](https://www.youtube.com/watch?v=5bNnxQRz5rQ)
+
 Areas of Engineering:  
 iOS, Backend
 
@@ -16,6 +18,3 @@ Xcode, Jetbrains IDEs
 
 
 **_Very curious about blockchain based technologies_**
-
-
-<-- [Avatar Image Explained 😊](https://www.youtube.com/watch?v=5bNnxQRz5rQ)
