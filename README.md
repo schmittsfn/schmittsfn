@@ -1,4 +1,4 @@
-<-- [Avatar Image Explained 😊](https://www.youtube.com/watch?v=5bNnxQRz5rQ)
+<-- [Avatar Image Explained](https://www.youtube.com/watch?v=5bNnxQRz5rQ) 😊
 
 Areas of Engineering:  
 iOS, Backend
