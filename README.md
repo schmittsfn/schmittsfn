@@ -1,6 +1,3 @@
-Aside from doing programming work for companies I also enjoy experiencing other places on earth. I find it stimulating to immerse myself in what others live and experience every day; good or bad. It helps me grow.
-
-
 ##### Areas of Engineering:
 ```
 iOS, Backend
