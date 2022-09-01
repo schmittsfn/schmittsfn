@@ -6,17 +6,17 @@
 
 ##### Areas of Engineering:
 ```
-iOS, Backend
+iOS (with Backend)
 ```
 
 ##### Fields:
 ```
-Maps, Video Streaming, VR, Video Games
+Graphics, Video Streaming, VR, Video Games, Maps
 ```
 
 ##### Some Technologies I have worked with:
 ```
-Swift, Objc, Golang, Ruby, Python, C#, C++, TypeScript
+Swift, Objc, C++, C#, TypeScript, Ruby, Golang, Python
 SwiftUI, Combine, CarPlay, tvOS, RoR, Django, Unity3D, React Native, Cocos2D
 Heroku, DigitalOcean, AWS Amplify, AWS S3
 Git
