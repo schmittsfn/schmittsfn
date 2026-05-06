@@ -3,38 +3,23 @@
 ░▀▀▄░█░░░█▀▀█░█░▀░█░░█▀░░█░░░█░░▀▀▄░█▀░░█░▒█
 ░▀▀▀░▀▀▀░▀░░▀░▀░░▒▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░░░▀░░▀
 ```
-0xc yrs writing software
+0b1111 yrs writing software
 
-##### Programming Languages:
+##### Apple App Development
 ```
-∙ Swift
-∙ Objective-C
-∙ C++
-```
-
-##### Core Technologies:
-```
-∙ SwiftUI
-∙ Combine
-∙ CarPlay
-∙ tvOS
-∙ Core Data
-∙ Core Graphics
+∙ iOS, iPad, Mac app development
+∙ Apple TV, Apple Watch & CarPlay development
 ```
 
-##### Cloud & Backend:
+##### Core ML & Apple Intelligence:
 ```
-∙ Firebase
-∙ AWS
-∙ Heroku
-∙ DigitalOcean
+∙ On-device AI agents for Apple platforms
+∙ Core ML, Vision, and Natural Language
 ```
 
-##### Design & Collaboration:
+##### Backend Solutions:
 ```
-∙ Figma
-∙ Jira
-∙ Trello
-∙ Notion
-∙ Slack
-``` 
+∙ API design and development
+∙ Database design and optimization
+∙ Scalable backend architecture
+```
