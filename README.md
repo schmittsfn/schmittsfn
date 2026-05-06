@@ -1,9 +1,8 @@
-```
-░█▀▀░█▀▄░█░░░░█▀▄▀█░░▀░░▀█▀░▀█▀░█▀▀░█▀▀░█▀▀▄
-░▀▀▄░█░░░█▀▀█░█░▀░█░░█▀░░█░░░█░░▀▀▄░█▀░░█░▒█
-░▀▀▀░▀▀▀░▀░░▀░▀░░▒▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░░░▀░░▀
-```
 0b1111 yrs writing software
+
+# Software Engineer
+
+I develop Apple apps and on-device AI features, with backend systems that support reliable product experiences.
 
 ##### Apple App Development
 ```
